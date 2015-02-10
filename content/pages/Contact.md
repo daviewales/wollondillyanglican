@@ -17,12 +17,8 @@ Thirlmere, 2572
 
 # Reverend Kevin Flanagan
 **Phone**: 4681 8742  
-**Mobile**: 0418 281 430  
-**Email**: [kevflanagan@bigpond.com](mailto:kevflanagan@bigpond.com)  
 
 # Reverend Rob Meischke
-**Phone**: 4683 111  
 **Mobile**: 0437 533 106  
-**Email**: [robmeischke@gmail.com](mailto:robmeischke@gmail.com)  
 
 
