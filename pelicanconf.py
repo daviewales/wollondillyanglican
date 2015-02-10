@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Wollondilly Anglican Parish'
 SITENAME = 'Wollondilly Anglican Churches'
-SITEURL = 'http://wollondillyanglican.tk'
+SITEURL = 'http://daviewales.github.io/wollondillyanglican'
 
 PATH = 'content'
 
