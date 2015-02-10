@@ -4,9 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Wollondilly Anglican Parish'
 SITENAME = 'Wollondilly Anglican Churches'
-SITEURL = ''
+SITEURL = 'http://daviewales.github.io/wollondillyanglican'
 
 PATH = 'content'
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
 
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_DATE = 'fs'
