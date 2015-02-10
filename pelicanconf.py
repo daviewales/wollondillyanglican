@@ -8,6 +8,9 @@ SITEURL = 'http://wollondillyanglican.tk'
 
 PATH = 'content'
 
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, }
+
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_DATE = 'fs'
 
